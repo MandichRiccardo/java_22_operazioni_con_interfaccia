@@ -1,3 +1,3 @@
-public interface Operazione{
-    public double calcolo(double a, double b);
+public interface Operazione {
+    double calcolo(double a, double b);
 }

@@ -1,6 +1,7 @@
 public class Test{
     public static void main(String[] args) {
         esegui();
+        System.out.println("programma terminato");
     }
     public static void esegui(){
         System.out.println("""
